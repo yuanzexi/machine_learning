@@ -1,2 +1,1 @@
-# machine_learning
-CS 534
+CS 534 Homework
